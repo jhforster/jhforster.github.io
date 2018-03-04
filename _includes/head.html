@@ -9,6 +9,9 @@
     {{ page.title }} &ndash; {{ site.title }}
   </title>
 
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.layout == "post" %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+
   {% include google-analytics.html %}
 
   <!-- CSS -->
