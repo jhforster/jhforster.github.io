@@ -1,6 +1,7 @@
 ---
 title: "\"Product Manager? What is that?\""
 description: aka let’s see if I can articulate what I do for a living…
+canonical: "https://medium.com/@jhforster/product-manager-what-is-that-8d9861c4af22"
 ---
 
 Let’s start with a confession — I never quite know how to explain to people what I do as a software Product Manager. Well, don’t get me wrong, I can babble buzzwords and jargon from job descriptions until the other person gets bored. I know how to give *that* answer.
