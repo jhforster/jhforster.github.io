@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  color: $off-white;
+  background-color: $off-black;
+  font-family: $base-font;
+}
+
+h1 {
+  font-family: $header-font;
+  color: $white;
+  margin: 10px 0 20px 0;
+  font-weight: 700;
+}
+
+h2,h3,h4,h5,h6 {
+  font-family: $header-font;
+  color: $white;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+p {
+  margin: 0 0 20px 0;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    color: $highlight;
+    box-shadow: inset 0 -2px 0 $highlight;
+  }
+}
+
+.no-underline {
+  &:hover,
+  &:focus {
+    color: $highlight;
+    box-shadow: inset 0 0px 0 $highlight;
+  }
+}
+
+hr {
+	height: 6px;
+	background: url(/assets/hr-slash.svg) repeat-x 0 0;
+  border: 0;
+  width: 246px;
+  margin: 100px auto;
+}
+
+strong {
+  color: $white;
+}
+
+ul {
+  margin: 10px 0 10px 0;
+  padding: 0 0 0 19px;
+  list-style-type: disc;
+  // future idea to use the highlight color on bullets instead
+  // list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><circle fill="#2EA4FA" cx="5" cy="5" r="2"/></svg>')
+
+  li {
+    margin: 0 0 10px 0;
+  }
+
+}
+
+
+svg {
+  height: 20px;
+  width: auto;
+}
