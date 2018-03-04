@@ -24,3 +24,17 @@
   text-align: center;
   display: block;
 }
+
+blockquote {
+  border-left: 4px solid $white;
+  // margin: 40px;
+  color: $white;
+  font-style: italic;
+  font-size: 1.25rem;
+
+  p {
+    margin: 80px 40px;
+    padding: 10px 0;
+    color: $white;
+  }
+}

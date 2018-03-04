@@ -11,9 +11,13 @@ I run Product at [User Interviews](https://www.userinterviews.com) where I get t
 
 I live in Salem, MA with my wife and our dogs Knox and Bagel. I enjoy cooking without recipes. I prefer running and doing body weight exercises rather than going to a gym. I think about getting into photography but never *really* do. I wish I golfed more. I consider a long hike, a campfire, and a tent the main components of a perfect weekend.
 
-<!--
+***
+
 ## Influences / inspiration / etc.
 
+Here are some [quotes](/quotes) that I enjoy.
+
+<!--
 ## Tools / gear / etc.
 
 I should link to blog tags here for app-recommendations and product-recommendations
