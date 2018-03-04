@@ -8,6 +8,7 @@ html, body {
   color: $off-white;
   background-color: $off-black;
   font-family: $base-font;
+  font-weight: 300;
 }
 
 h1 {
@@ -62,7 +63,7 @@ strong {
 
 ul {
   margin: 10px 0 10px 0;
-  padding: 0 0 0 19px;
+  padding: 0 40px;
   list-style-type: disc;
   // future idea to use the highlight color on bullets instead
   // list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><circle fill="#2EA4FA" cx="5" cy="5" r="2"/></svg>')
@@ -72,7 +73,6 @@ ul {
   }
 
 }
-
 
 svg {
   height: 20px;
