@@ -33,6 +33,11 @@ google_analytics:
 
 description: John-Henry Forster runs Product at User Interviews and lives in Salem, MA. At the moment, he is probably coming up with yet another half baked idea or trying to convince himself to go for a run.
 
+collections:
+  writing:
+    output: true
+    permalink: /:collection/:year/:title
+
 defaults:
   -
     scope:
@@ -41,6 +46,12 @@ defaults:
     values:
       layout: post
       permalink: /blog/:year/:title
+    scope:
+      path: ""
+      type: "writing"
+    values:
+      layout: post
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
