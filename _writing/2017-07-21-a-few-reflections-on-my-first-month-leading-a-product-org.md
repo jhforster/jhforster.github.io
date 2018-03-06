@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A few reflections on my first month leading a Product org
 description: "(Or the advice I wish someone had shared with me ahead of time)"
 canonical: "https://medium.com/@jhforster/a-few-reflections-on-my-first-month-leading-a-product-org-5d406c8447db"

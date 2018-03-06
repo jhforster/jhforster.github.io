@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "\"It's the case stupid\" aka my AirPod review"
 ---
 

@@ -31,6 +31,7 @@ collections:
   writing:
     output: true
     permalink: /:collection/:year/:title
+    layout: post
 
 defaults:
   -
@@ -40,11 +41,11 @@ defaults:
     values:
       layout: post
       permalink: /blog/:year/:title
-    scope:
-      path: ""
-      type: "writing"
-    values:
-      layout: post
+    # scope:
+    #   path: ""
+    #   type: "writing"
+    # values:
+    #   layout: post
 
 
 # Exclude from processing.

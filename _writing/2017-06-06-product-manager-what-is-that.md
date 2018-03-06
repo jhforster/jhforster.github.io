@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "\"Product Manager? What is that?\""
 description: aka let’s see if I can articulate what I do for a living…
 canonical: "https://medium.com/@jhforster/product-manager-what-is-that-8d9861c4af22"

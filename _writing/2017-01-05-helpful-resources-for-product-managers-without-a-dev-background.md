@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Helpful resources for Product Managers without a dev background
 description: An opinionated perspective on what has been most helpful to me during my journey to improve my technical chops.
 canonical: "https://medium.com/product-at-catalant-technologies/helpful-resources-for-product-managers-without-a-dev-background-3cb16286372d"

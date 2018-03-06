@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "26.2 Reasons Why Talking to Users Is Like Exercising"
 description: "Or, the surprising connections between user interviews and hitting the gym."
 canonical: "https://www.userinterviews.com/blog/26-2-reasons-why-talking-to-users-is-like-exercising"
