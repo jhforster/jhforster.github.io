@@ -31,7 +31,6 @@ collections:
   writing:
     output: true
     permalink: /:collection/:year/:title
-    layout: post
 
 defaults:
   -

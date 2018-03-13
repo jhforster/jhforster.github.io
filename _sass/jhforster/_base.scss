@@ -8,7 +8,8 @@ html, body {
   color: $off-white;
   background-color: $off-black;
   font-family: $base-font;
-  font-weight: 300;
+  font-weight: 400;
+  font-size: 16px;
 }
 
 h1 {
@@ -16,17 +17,24 @@ h1 {
   color: $white;
   margin: 10px 0 20px 0;
   font-weight: 700;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
 }
 
 h2,h3,h4,h5,h6 {
   font-family: $header-font;
   color: $white;
-  margin: 10px 0;
+  margin: 10px 0 20px 0;
   font-weight: 600;
 }
 
 p {
   margin: 0 0 20px 0;
+  font-size: 1rem;
 }
 
 a {
@@ -70,6 +78,22 @@ ul {
 
   li {
     margin: 0 0 10px 0;
+
+    ul {
+      padding: 0 0 0 40px;
+    }
+  }
+
+}
+
+ol {
+  margin: 10px 0 20px 0;
+  padding: 0 40px;
+  // future idea to use the highlight color on bullets instead
+  // list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><circle fill="#2EA4FA" cx="5" cy="5" r="2"/></svg>')
+
+  li {
+    margin: 0 0 10px 0;
   }
 
 }
@@ -81,4 +105,15 @@ svg {
 
 em {
   margin: 0 2px 0 0;
+}
+
+// Prevent super script and sub scripts from changing line heights
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
 }
