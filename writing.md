@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Writing
-tagline: Thoughts I felt compelled to express
 ---
 
 {% assign writing = site.writing | reverse %}

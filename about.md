@@ -1,7 +1,6 @@
 ---
 layout: base
 title: About
-tagline: Details that seemed worth sharing
 description: A smattering of biographic details and other miscellany that seemed worth sharing with the world.
 ---
 

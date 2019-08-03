@@ -5,11 +5,15 @@
 }
 
 html, body {
-  color: $off-white;
-  background-color: $off-black;
+  color: $off-black;
+  background-color: $white;
   font-family: $base-font;
   font-weight: 400;
   font-size: 16px;
+
+  @media (max-width: $for-mobile-view) {
+    padding: 0 1rem;
+  }
 }
 
 h1 {
@@ -27,33 +31,36 @@ h2 {
 
 h2,h3,h4,h5,h6 {
   font-family: $header-font;
-  color: $white;
+  color: $medium-gray;
   margin: 10px 0 20px 0;
   font-weight: 600;
 }
 
 p {
   margin: 0 0 20px 0;
-  font-size: 1rem;
 }
 
-a {
+a {  
+  box-shadow: inset 0 -3px 0 $highlight;
   color: $link-color;
   text-decoration: none;
 
-  // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
-  &:focus {
-    color: $highlight;
-    box-shadow: inset 0 -2px 0 $highlight;
+  :focus {
+    background-color: $off-highlight;
+    transition: background-color .95s ease;
   }
 }
 
 .no-underline {
-  &:hover,
-  &:focus {
-    color: $highlight;
+  a {
     box-shadow: inset 0 0px 0 $highlight;
+
+    &:hover,
+    &:focus {
+      color: $highlight;
+      box-shadow: inset 0 0px 0 $highlight;
+    }
   }
 }
 
@@ -61,12 +68,8 @@ hr {
 	height: 6px;
 	background: url(/assets/hr-slash.svg) repeat-x 0 0;
   border: 0;
-  width: 246px;
-  margin: 100px auto;
-}
-
-strong {
-  color: $white;
+  width: 15rem;
+  margin: 3.5rem auto;
 }
 
 ul {
