@@ -22,6 +22,7 @@
 }
 
 .nav-links {
+  font-family: $header-font;
   padding: 0 1rem;
 
   @media (max-width: $for-mobile-view) {
