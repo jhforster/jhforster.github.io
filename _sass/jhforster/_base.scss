@@ -38,26 +38,29 @@ h2,h3,h4,h5,h6 {
 
 p {
   margin: 0 0 20px 0;
-  font-size: 1rem;
 }
 
-a {
+a {  
+  box-shadow: inset 0 -3px 0 $highlight;
   color: $link-color;
   text-decoration: none;
 
-  // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
-  &:focus {
-    color: $highlight;
-    box-shadow: inset 0 -2px 0 $highlight;
+  :focus {
+    background-color: $off-highlight;
+    transition: background-color .95s ease;
   }
 }
 
 .no-underline {
-  &:hover,
-  &:focus {
-    color: $highlight;
+  a {
     box-shadow: inset 0 0px 0 $highlight;
+
+    &:hover,
+    &:focus {
+      color: $highlight;
+      box-shadow: inset 0 0px 0 $highlight;
+    }
   }
 }
 
