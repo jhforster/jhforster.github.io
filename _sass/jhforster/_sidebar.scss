@@ -32,44 +32,6 @@
   }
 }
 
-.logo {
-  height: 75px;
-  width: auto;
-  margin: 0 0 10px 0;
-
-  @media (max-width: $for-mobile-view) {
-    margin: 0;
-  }
-}
-
-.nav-items {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  margin: 0 0px 75px 0;
-
-  @media (max-width: $for-mobile-view) {
-    width: 100%;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin: 0;
-  }
-}
-
-.nav-link {
-  margin: 5px 0;
-
-  @media (max-width: $for-mobile-view) {
-    margin: 5px 10px 0 0;
-  }
-}
-
-.active {
-  color: $highlight;
-  font-weight: 600;
-}
-
 .icon-links {
   width: 80%;
   display: flex;
