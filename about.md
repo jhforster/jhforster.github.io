@@ -3,11 +3,8 @@ layout: base
 title: About
 description: A smattering of biographic details and other miscellany that seemed worth sharing with the world.
 ---
-<div class="about-header">
-  <h1>Hi! 👋</h1><br/>
-  <h2>I'm John-Henry!</h2>
-  <h3>But most people call me JH.</h3>
-</div>
+{% include about-header.html %}
+
 
 ## Quick Bio
 
