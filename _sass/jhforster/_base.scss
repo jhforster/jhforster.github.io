@@ -12,7 +12,7 @@ html, body {
   font-size: 16px;
 
   @media (max-width: $for-mobile-view) {
-    padding: 0 1rem;
+    padding: 0 .75rem;
   }
 }
 

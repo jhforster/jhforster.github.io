@@ -3,6 +3,8 @@ layout: base
 title: About
 description: A smattering of biographic details and other miscellany that seemed worth sharing with the world.
 ---
+{% include about-header.html %}
+
 
 ## Quick Bio
 
