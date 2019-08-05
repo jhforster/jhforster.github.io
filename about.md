@@ -14,10 +14,6 @@ I live in Salem, MA with my wife and our dogs Knox and Bagel. I enjoy cooking wi
 
 ***
 
-## Influences / inspiration / etc.
-
-Here are some [quotes](/quotes) that I enjoy.
-
 <!--
 ## Tools / gear / etc.
 
