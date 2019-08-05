@@ -1,5 +1,6 @@
 ---
 title: "App recommendation: Libby"
+tags: [app, iOS]
 ---
 
 I've been using [Libby](https://meet.libbyapp.com/) for the past month and it's been great. As a general rule, I don't worry too much about spending money on books but having such easy access to books I can borrow for free is nothing to sniff at. I haven't tried borrowing an audiobook yet but excited to give that a spin soon.
