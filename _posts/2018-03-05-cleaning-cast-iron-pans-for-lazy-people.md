@@ -1,5 +1,6 @@
 ---
 title: Cleaning cast iron pans for lazy people
+tags: cooking
 ---
 
 Cast iron pans have seen a resurgence in popularity in recent years and for good reasons. They are a great tool, they last forever, they are affordable, and they are healthier than teflon alternatives. **Plus,** they exude some always popular nostalgic, vintage vibes. Win, win.

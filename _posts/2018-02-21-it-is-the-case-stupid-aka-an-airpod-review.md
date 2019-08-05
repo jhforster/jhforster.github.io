@@ -1,5 +1,6 @@
 ---
 title: "\"It's the case stupid\" aka my AirPod review"
+tags: [apple, recommended]
 ---
 
 I've owned a pair of AirPods for a month now and I've enjoyed them much more than I ever expected. I concede that they look a little goofy and are on the expensive end of the spectrum. But those are really my only main complaints. And, to be fair, when you really look at other bluetooth headphone options, they *all* look goofy in some way. They sound better than the normal EarPods and generally exceed my non-audiophile needs. I don't know if it's the lack of "cord weight" (as some have speculated) or a slightly different shape but they stay in my ears remarkably well. For me, they feel more secure than EarPods by a significant margin. I've run on a treadmill in them with no issues. In fact, the only time I can recall them falling out of my ears is when I've bumped them while taking off a t-shirt. Pairing them with my devices was painless and switching between using them with my MacBook Pro and iPhone 6s is trivial. Auto pause when you remove one pod is cool and useful trick. The double tap controls, while limited, have generally seemed sufficient.
