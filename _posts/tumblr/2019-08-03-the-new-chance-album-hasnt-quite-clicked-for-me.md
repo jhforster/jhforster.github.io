@@ -1,10 +1,9 @@
 ---
-hide-title: true
-date: '2019-08-03T11:07:04-04:00'
+hide_title: true
+layout: media
 tags:
 - music
 - song
-tumblr_url: https://jhforster.tumblr.com/post/186745864921/the-new-chance-album-hasnt-quite-clicked-for-me
 ---
 <iframe src="https://open.spotify.com/embed/track/4LvRT9c5IKxC8GHVPAAaHb" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

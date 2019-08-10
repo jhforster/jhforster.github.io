@@ -3,17 +3,19 @@ layout: base
 ---
 <div class="content">
 
-  {{ content }}
-
   <ul class="collection-list">
   {% for post in site.posts %}
     <li>
-      {% unless post.hide-title %}
-      <h1>
-        <a href="{{ post.url }}">{{ post.title | except }}</a>
+      {% if post.external_link %}
+      <h1 class="link">
+          ⬀ <a href="{{ post.external_link }}" target="_blank">{{ post.title | escape }} </a>
       </h1>
-      
-      {% endunless %}
+      {% elsif post.hide_title %}
+      {% else %}
+      <h1>
+        <a href="{{ post.url }}">{{ post.title | escape }}</a>
+      </h1>
+      {% endif %}
       {{ post.content }}
     </li>
     <hr>
