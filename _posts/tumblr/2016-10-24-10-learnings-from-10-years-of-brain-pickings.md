@@ -1,15 +1,11 @@
 ---
 layout: post
 title: 10 Learnings from 10 Years of Brain Pickings
-date: '2016-10-24T20:01:10-04:00'
+external_link: https://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/
 tags:
-- brain pickings
-- maria popova
-- life lessons
-tumblr_url: https://jhforster.tumblr.com/post/152269758702/10-learnings-from-10-years-of-brain-pickings
+- link
+- life
 ---
-[10 Learnings from 10 Years of Brain Pickings](https://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/)  
-
 I always find myself wishing I had more time to digest the content on Brain Pickings so I enjoyed this concise list of themes and lessons.
 
 1. Allow yourself the uncomfortable luxury of changing your mind.

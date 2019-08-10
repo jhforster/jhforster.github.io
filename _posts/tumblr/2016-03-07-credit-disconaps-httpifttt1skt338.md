@@ -1,13 +1,9 @@
 ---
 layout: post
-title: credit disconaps httpifttt1skt338
-date: '2016-03-07T21:32:54-05:00'
+hide_title: true
 tags:
-- photography
-- instagram
-tumblr_url: https://jhforster.tumblr.com/post/140663275206/credit-disconaps-httpifttt1skt338
+- art
 ---
- ![](/tumblr_files/tumblr_o2wy8oFTeg1uxadqoo1_1280.jpg)  
+![](/tumblr_files/tumblr_o2wy8oFTeg1uxadqoo1_1280.jpg)  
 
-credit @disco\_naps [http://ift.tt/1SKT338](http://ift.tt/1SKT338)
-
+I really enjoy this print for some reason. Clever in a fun way. I recommend following [Disco Naps](https://www.instagram.com/disco_naps/?hl=en) on the 'gram. It is a feed full of this type of stuff. A *smidge* NSFW at times but not really.
