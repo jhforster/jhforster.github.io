@@ -1,5 +1,4 @@
 ---
-layout: quote
 tags:
 - vonnegut
 - quote
