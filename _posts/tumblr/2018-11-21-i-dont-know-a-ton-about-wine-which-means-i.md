@@ -1,15 +1,12 @@
 ---
 layout: post
-title: no title
-date: '2018-11-21T08:26:23-05:00'
+title: Beaujolais Nouveau 
 tags:
 - wine
-- beaujolais nouveau
-tumblr_url: https://jhforster.tumblr.com/post/180342772016/i-dont-know-a-ton-about-wine-which-means-i
+- culture
+- recommended
 ---
-# Beaujolais Nouveau 
-
-I don’t know a ton about wine, which means I occasionally get the pleasure of learning something new.
+I don’t know a ton about wine, which means I get the pleasure of learning something new rather often.
 
 Within the span of a few weeks, I happened to hear a couple of people talking about “beaujolais.” I had never heard this word before. Turns out it is a region in France that produces wines. Makes sense.
 
@@ -18,4 +15,3 @@ Last night, my local wine shop was pouring a few Beaujolais Nouveau wines. And n
 <figure class="tmblr-full" data-orig-height="768" data-orig-width="1280"><img src="https://66.media.tumblr.com/1a8b121719a30b4075d38785e0ed184d/tumblr_pijpbyRlja1tw1dop_1280.jpg" data-orig-height="768" data-orig-width="1280"></figure>
 
 Anyways, it’s not my favorite wine ever but I like the annual tradition that accompanies it. Supposedly, the harvest this year was an unusually good one so I’m going to do my best to hunt down a few more bottles from different producers while I can. ‘Tis the season. 🍷
-

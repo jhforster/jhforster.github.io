@@ -1,21 +1,18 @@
 ---
 layout: post
-title: no title
-date: '2018-12-05T21:40:34-05:00'
+hide_title: true
 tags:
-- kurt vonnegut
+- kurt-vonnegut
 - quote
-- cats cradle
-- bokononism
-tumblr_url: https://jhforster.tumblr.com/post/180846238716/tiger-got-to-hunt-bird-got-to-fly-man-got-to-sit
+- book
+- recommended
 ---
-> _Tiger got to hunt, bird got to fly;_
+> Tiger got to hunt, bird got to fly;
 > 
-> _Man got to sit and wonder ‘why, why, why?’_
+> Man got to sit and wonder ‘why, why, why?’
 > 
-> _Tiger got to sleep, bird got to land;_
+> Tiger got to sleep, bird got to land;
 > 
-> _Man got to tell himself he understand._
+> Man got to tell himself he understand.
 
-Kurt Vonnegut via&nbsp;Bokononism. I should probably re-read Cat’s Cradle soon.
-
+Bokononism is definitely my favorite religion. I should probably re-read Cat’s Cradle soon.
