@@ -1,10 +1,10 @@
 ---
 layout: post
-title: no title
-date: '2016-11-20T22:15:32-05:00'
+hide_title: true
 tags:
-- the get down
-tumblr_url: https://jhforster.tumblr.com/post/153456386256/this-show-is-great
+- tv
+- culture
 ---
-This show is great.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AfAWak0yoRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This show is great.

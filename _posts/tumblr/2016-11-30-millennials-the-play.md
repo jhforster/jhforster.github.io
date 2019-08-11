@@ -1,10 +1,11 @@
 ---
 layout: post
-title: no title
-date: '2016-11-30T21:58:48-05:00'
+hide_title: true
 tags:
 - millennials
-- lin manuel miranda
-tumblr_url: https://jhforster.tumblr.com/post/153887938921
+- video
+- culture
 ---
 <iframe width="400" height="225" id="youtube_iframe" src="https://www.youtube.com/embed/gwfKqPYSGK0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+This is *very* well done.

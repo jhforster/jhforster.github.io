@@ -1,15 +1,10 @@
 ---
 layout: post
-title: found this via austin kleons twitter its an
-date: '2016-11-23T13:44:54-05:00'
+hide_title: true
 tags:
-- self help
-- reasons to stay alive
-- matt haig
-- time
-tumblr_url: https://jhforster.tumblr.com/post/153567233246/found-this-via-austin-kleons-twitter-its-an
+- life
+- quote
 ---
- ![](/tumblr_files/tumblr_oh3yqubGDY1uxadqoo1_500.jpg)  
+![](/tumblr_files/tumblr_oh3yqubGDY1uxadqoo1_500.jpg)  
 
-Found this via [Austin Kleon](https://twitter.com/austinkleon)’s twitter. &nbsp;It’s an excerpt from the book [Reasons to Stay Alive](http://amzn.to/2ghCLSq) by Matt Haig. &nbsp;Hadn’t heard of the book before but interested in checking it out now.
-
+Found this via [Austin Kleon](https://twitter.com/austinkleon)’s twitter. It’s an excerpt from the book [Reasons to Stay Alive](http://amzn.to/2ghCLSq) by Matt Haig. Hadn’t heard of the book before but interested in checking it out now.
