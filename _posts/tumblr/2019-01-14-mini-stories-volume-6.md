@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mini Stories: Volume 6
+title: Mini Stories – Volume 6
 external_link: https://99percentinvisible.org/episode/mini-stories-volume-6/
 tags:
 - 99%-invisible
