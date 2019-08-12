@@ -9,13 +9,10 @@ tags:
 ---
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s probably my favorite Wu-Tang album *and* my favorite Beatles album.</p>&mdash; Mαtt Thomαs (@mattthomas) <a href="https://twitter.com/mattthomas/status/1064649159368687617?ref_src=twsrc%5Etfw">November 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Here are some fun facts about me.
-
-I am 32 years old.
-
-I have owned cars for 11 of my 16 total eligible driving years.
-
-I have never owned a car with an Aux input or Bluetooth.
+Here are some fun facts about me:
+* I am 32 years old.
+* I have owned cars for 11 of my 16 total eligible driving years.
+* I have never owned a car with an aux input or bluetooth.
 
 [Wu-Tang vs The Beatles: Enter the Magical Mystery Chambers](https://soundcloud.com/user4766069/sets/wu-tang-vs-the-beatles-enter-the-magical-mystery-chambers-the-mixtape)
 
