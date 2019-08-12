@@ -7,7 +7,7 @@ tags:
 - wu-tang-clan
 - recommended
 ---
-[Mαtt Thomαs on Twitter](https://t.umblr.com/redirect?z=https%3A%2F%2Ftwitter.com%2Fmattthomas%2Fstatus%2F1064649159368687617&t=NjcwNzkyYzE1ZTM0ZmEzNzI5YzI5OTFjMTMxZDE4OTAxMzg3MDkwZSwyYTkwMDkzMWJkZWQwZTNhNDQzMmU0Zjg0NDM0MmIwZDMzMTgyNjRj)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s probably my favorite Wu-Tang album *and* my favorite Beatles album.</p>&mdash; Mαtt Thomαs (@mattthomas) <a href="https://twitter.com/mattthomas/status/1064649159368687617?ref_src=twsrc%5Etfw">November 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here are some fun facts about me.
 
