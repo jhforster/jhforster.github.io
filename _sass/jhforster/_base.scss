@@ -50,17 +50,18 @@ a {
     background-color: $off-highlight;
     transition: background-color .95s ease;
   }
+
+}
+
+h1 {
+  .blog-post-title {
+    box-shadow: none;
+  }
 }
 
 .no-underline {
   a {
-    box-shadow: inset 0 0px 0 $highlight;
-
-    &:hover,
-    &:focus {
-      color: $highlight;
-      box-shadow: inset 0 0px 0 $highlight;
-    }
+    box-shadow: none;
   }
 }
 
@@ -119,4 +120,20 @@ sup, sub {
 }
 sub {
   top: 0.4em;
+}
+
+// iframe {
+//   width: 100%;
+//   height: auto;
+// }
+
+// figure {
+//   display: flex;
+//   align-items: stretch;
+//   justify-content: center;
+// }
+
+img {
+  height: auto;
+  width: 100%;
 }
