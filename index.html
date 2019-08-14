@@ -1,0 +1,51 @@
+---
+layout: base
+title: Blog
+---
+<ul class="collection-list">
+  {% for post in paginator.posts %}
+    <li>
+      {% if post.external_link %}
+      <h1>
+        ⬀ <a href="{{ post.external_link }}" target="_blank">{{ post.title | escape }} </a>
+      </h1>
+      {% elsif post.hide_title %}
+      {% else %}
+      <h1>
+        <a class="blog-post-title" href="{{ post.url }}">{{ post.title | escape }}</a>
+      </h1>
+      {% endif %}
+      {{ post.content }}
+    </li>
+    <hr>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  <div class="pagination-numbers">
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <strong>{{ page }}</strong>
+      {% elsif page == 1 %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+<hr>
+{% endif %}
