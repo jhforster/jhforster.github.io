@@ -25,7 +25,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 20
-paginate_path: "/page:num/"
+paginate_path: "/:num/"
 
 google_analytics: "UA-64320154-4"
 
