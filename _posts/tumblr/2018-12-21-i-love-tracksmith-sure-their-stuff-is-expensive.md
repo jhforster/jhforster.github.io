@@ -7,7 +7,7 @@ tags:
 - new-england
 - poem
 ---
-<iframe src="https://player.vimeo.com/video/211741894?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963" width="400" height="225" frameborder="0" title="We Do Not Run For Prize" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://player.vimeo.com/video/211725755?byline=0&amp;badge=0&amp;portrait=0&amp;title=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 I love [Tracksmith](https://www.tracksmith.com/). Sure – their stuff is expensive and skews preppy. But you know what? I like how they celebrate the amateur spirit of running. As a New Englander, I enjoy their aggressively New England vibes. And the items I’ve purchased from them have all been phenomenal in terms of quality, fit, and so on.
 

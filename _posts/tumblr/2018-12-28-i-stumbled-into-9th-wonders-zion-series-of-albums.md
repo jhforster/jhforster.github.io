@@ -4,7 +4,7 @@ title: SirBlue!!!
 tags:
 - music
 ---
-<iframe class="spotify_audio_player" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A1jY1bqCGkC8QFwifBAiRLW%3Fsi%3Ds_iuleP_SienMqBc3zLz_w&amp;view=coverart" frameborder="0" allowtransparency="true" width="540" height="620"></iframe>  
+<div style="max-width: 500px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 100%; padding-top: 80px;"><iframe src="https://open.spotify.com/embed/track/1jY1bqCGkC8QFwifBAiRLW" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div>
 
 I stumbled into 9th Wonder’s Zion series of albums recently. So good. I love these sort of chopped up soul, hip hop beats that blend together. This song, SirBlue!!!, has been my favorite so far.
 

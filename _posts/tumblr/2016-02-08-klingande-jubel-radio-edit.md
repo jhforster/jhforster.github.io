@@ -3,4 +3,4 @@ layout: post
 hide_title: true
 tags: music
 ---
-<iframe class="spotify_audio_player" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2mpsKeLCbdXkwEpZRNi4XD&amp;view=coverart" frameborder="0" allowtransparency="true" width="540" height="620"></iframe>  
+<iframe src="https://open.spotify.com/embed/track/2mpsKeLCbdXkwEpZRNi4XD" style="border: 0; width: 100%; height: 80px;" allowfullscreen allow="encrypted-media"></iframe>
