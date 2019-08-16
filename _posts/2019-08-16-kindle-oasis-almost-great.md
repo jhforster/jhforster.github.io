@@ -14,7 +14,7 @@ I've had it for about a week now, here is my quick review.
 
 ## Pros
 1. Screen is much crisper. 300ppi vs. 220ppi on my previous device. Text is noticeably sharper and more pleasant to read. I didn't have an issue with the previous screen until after using this screen. You really cannot go back once you adjust.
-2. Physical buttons for turning the pages. 🙌 Though I wish there was an option to disable the touchscreen page turns as a software setting. Craig Mod's [essay](e) on this explains it better than I will so I'm not going to bother.
+2. Physical buttons for turning the pages. 🙌 Though I wish there was an option to disable the touchscreen page turns as a software setting. Craig Mod's [essay][e] on this explains it better than I will so I'm not going to bother.
 3. The software and interactions are snappier and less laggy.
 4. Waterproof. Unclear often this will come in handy but a nice insurance policy.
 
