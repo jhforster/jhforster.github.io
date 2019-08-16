@@ -18,5 +18,5 @@ Either way, we're beyond thrilled to meet this little dude. Maybe he'll be our a
 
 
 
-[^1]: I'm not going to bother looking up the exact statistics. I think it is like >80% but I'm sure google can inform you if you must know.
+[^1]: I think it is like >80% but I'll let you find the exact statistic if you must know.
 [^2]: I'm someone who likes to open gifts immediately and this is the biggest gift of all.
