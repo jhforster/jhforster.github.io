@@ -6,7 +6,7 @@ tags:
 - humor
 ---
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/D_zS_uiPWxs?rel=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media; accelerometer; gyroscope; picture-in-picture"></iframe></div>
-My wife and I heard this for the first time randomly on Spotify with no knowledge of what it was. Gradually, we started to realize it was awfully repetitive and laughing aloud. But we still thought it was real for a moment. Finally it clicked that this had to be a parody of some sort.
+My wife and I heard this for the first time randomly on Spotify with no knowledge of what it was. Gradually, we started to realize it was awfully repetitive and laughing aloud. But we still thought it was real for a moment. Finally it clicked that this had to be a parody of some sort. It was a confusing and hysterical couple of minutes.
 
 The [backstory][b] is kind of amazing. A real musician named Dustin Christensen made a joke version of one of his own songs.
 
