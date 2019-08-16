@@ -22,7 +22,7 @@ title: Archive
 <!-- I should see if there is a way to nest this bottom loop above so I can get post count here too -->
 
 {% for tag in site.tags %}
-  <h3>#{{ tag[0] }}</h3>
+  <h3 id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
