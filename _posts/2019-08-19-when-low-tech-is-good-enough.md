@@ -1,5 +1,5 @@
 ---
-title: When simple & low tech is good enough
+title: When simple – but working – is good enough
 tags:
 - product
 ---
