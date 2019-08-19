@@ -19,7 +19,7 @@ But no solutions were presenting themselves. Some required moving off hosting on
 
 No solutions that met my needs or abilities[^2].
 
-But in earlier in my googling, I had stumbled across iFramely. A paid service for solving this problem. I didn't want to pay for anything. But they offer a ["Check URL"][cu] page where you can paste in any link and it spits out responsive embed code...
+But in earlier in my googling, I had stumbled across iFramely. A paid service for solving this problem. I didn't want to pay for anything. But they offer a "[Check URL][cu]" page where you can paste in any link and it spits out responsive embed code...
 
 I thought about it a bit more. On average, I only post a few times a week. And maybe only a third of those posts need to handle an embed. I'm not going to be doing this terribly often. How slick of a solution do I need?
 
