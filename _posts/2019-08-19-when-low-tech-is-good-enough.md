@@ -9,7 +9,7 @@ But, more importantly, parts of it are a bit outside my current technical abilit
 
 But not all challenges are worth solving.
 
-As someone who has worked in Product for over a decade, I know this. It is obviously true at an intellectual level – there isn't time to solve all of the problems before us. Duh. And I feel confident coaching others through these types of trade-offs. Or being the decision maker on where we're drawing the line on an effort.
+As someone who has worked in Product for over a decade, I know this. It is obviously true at an intellectual level – there isn't time to solve all of the problems before us. Duh. And I feel confident coaching others through these types of trade-offs. Or being the decision maker on where to draw the line on an effort.
 
 But it is harder when *you are* the one wrestling with the challenge directly. It is easier to maintain good judgment as a third-party. It is hard to do it yourself and self edit while working on something.
 
