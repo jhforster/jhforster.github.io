@@ -25,11 +25,11 @@ A day full of meeting is never great but it is worse over video.
 
 > “In terms of being super-productive in remote environments, the biggest lever is to work as asynchronously as possible. Carve off large chunks of work that you can do on your own without having to check in every hour or even every day. For design reviews, do some of them over video, but collect as much feedback via asynchronous comments as you can.”
 
-*Ding, ding, ding.* Async is amazing if you can figure it out. Remote provides a naturally incentive to figure it out. It’s not easy but it’s great. Plus, you end up with written documentation and other artifacts to revisit that don’t always come out of meetings or whiteboard sessions. Documentation by default when working async.
+*Ding, ding, ding.* Async is amazing if you can figure it out. Remote provides a natural incentive to figure it out. It’s not easy but it’s great. Plus, you end up with written documentation and other artifacts to revisit that don’t always come out of meetings or whiteboard sessions. It is documentation by default when working async.
 
-A few final add-on thoughts from me:
-* Companies fear remote work because they cannot track employees and worry they'll take liberties. Employees fear remote work because they worry they won't be able to stop working and set boundries when their home is their office. Seems like a silly gap in expectations when you think about it.
+**A few final add-on thoughts from me:**
+* Companies fear remote work because they cannot track employees and worry they'll take liberties. Employees fear remote work because they worry they won't be able to stop working and set boundries when their home is their office. Seems like a silly misalignment in expectations when you think about it.
 * Sometimes I love Slack. Sometimes I hate Slack. I couldn't imagine working remote without it. But it distracts me a lot too. This deserves its own post. 
-* A pleasant home environment and socializing outside of work are key. *But these should be key for office workers too.* A nice home and regular activities shouldn’t only be disproportionally valued by remote workers. Kind of sad when you flip the framing and realize office workers are okay forgoing these things without doing so intentionally. 
+* A pleasant home environment and socializing outside of work are key. *But these should be key for office workers too.* A nice home and regular social activities with non-coworkers shouldn’t be disproportionally valued by remote workers. Kind of sad when you flip it this way and realize office workers seem to be more okay forgoing these things without doing so intentionally. 
 
 [ui]: https://userinterviews.com
