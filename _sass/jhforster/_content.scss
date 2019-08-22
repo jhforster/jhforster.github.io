@@ -26,13 +26,15 @@
 }
 
 blockquote {
-  border-left: 3px solid $light-gray;
+  border-left: 2px solid $off-black;
+  color: $medium-gray;
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+  margin: 2rem 0;
 
   p {
-    margin: 80px 40px;
-    padding: 15px 0;
+    margin: 0 2rem;
+    padding: 1rem 0;
   }
 }
 
