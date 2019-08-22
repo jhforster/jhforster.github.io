@@ -7,7 +7,7 @@ tags:
 ---
 I've been working at [User Interviews][ui] – a fully remote company – for over 2 years now. I keep meaning to summarize my thoughts on remote work.
 
-But this post came along and pretty much did it for me. A lot resonated with me. Some highlights.
+But this post came along and pretty much did it for me. A lot resonated with me. Some highlights. 👇
 
 > “The way to look at remote work is that it’s a series of tradeoffs. You enjoy benefits in exchange for disadvantages. The uptake of remote work over the next decade will depend most on the minimization of those disadvantages rather than the maximization of the benefits. Reason being, the benefits are already substantial while many of the disadvantages will be lessened over time with technology and process improvements.”
 
