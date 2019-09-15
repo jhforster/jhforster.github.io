@@ -16,8 +16,11 @@
 }
 
 .blog-date {
-  font-weight: 700;
-  margin: 0 0 50px 0;
+  font-family: $base-font;
+  font-size: 1rem;
+  font-weight: 400;
+  color: $light-gray;
+  // margin: 0 0 50px 0;
 }
 
 .center {

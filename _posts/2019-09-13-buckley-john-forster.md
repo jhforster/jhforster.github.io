@@ -4,7 +4,7 @@ tags:
 - life
 - parenting
 ---
-![](assets/buckley-at-birth.jpg)
+![](/assets/buckley-at-birth.jpg)
 
 My son[^1] is 3 weeks old today. Almost everyone has informed us that these first few weeks are a blur so I've been doing my best to capture my thoughts. Here is a dump of things that have crossed my mind since his birth. Roughly in chronological order but also not really.
 
