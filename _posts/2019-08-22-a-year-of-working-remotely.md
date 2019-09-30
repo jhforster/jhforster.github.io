@@ -21,7 +21,7 @@ This mirrors my experience. I love Zoom. Days without any video calls feel isola
 
 But a slate of them back to back to back is exhausting. You’re performing for a camera almost. You feel "on." Often with no real break between calls. A day full of meetings in an office at least usually means walking to different conference rooms. It is chopped up a bit as you physically relocate.
 
-A day full of meeting is never great but it is worse over video.
+A day full of meetings is never great but it is worse over video.
 
 > “In terms of being super-productive in remote environments, the biggest lever is to work as asynchronously as possible. Carve off large chunks of work that you can do on your own without having to check in every hour or even every day. For design reviews, do some of them over video, but collect as much feedback via asynchronous comments as you can.”
 
