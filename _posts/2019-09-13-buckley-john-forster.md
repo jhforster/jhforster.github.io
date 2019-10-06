@@ -23,6 +23,6 @@ My son[^1] is 3 weeks old today. Almost everyone has informed us that these firs
 
 I'm probably forgetting a whole host of other observations and thoughts I've had about this dude. I suspect this will not be the last time I post about him.
 
-
+**Important update:** the dishwasher and laundry machine have been life savers. We're constantly cleaning something. I feel fortunate to have access to both.
 
 [^1]: It still seems wild to type that...
