@@ -15,12 +15,14 @@ It's all around great. But why does this dynamic happen in running but not in ma
 I have a two part hypothesis:
 
 1. It is easily quantified
-    * There are only two data points that matter really. Distance and duration. How far and how fast? These are easy numbers to track and share. It is simple. Lots of other things can be quantified but it is usually not as straightforward.[^2]
+    * There are only two data points that matter really. Distance and duration. How far and how fast? These are easy numbers to track and share. It is simple. Lots of other things can be quantified but it is usually not as straightforward.
 2. It is a shared experience
     * Everyone is trying to do the same thing. Run a specific distance faster than they ever have before. And regardless of your speed, doing so requires the same thing from everyone – their best effort. So whether your shiny new 5k PR is 18 minutes or 30 minutes, a PR means it was your best ever effort. Period.
 
-I love cooking. But how do I quatify if a meal was my best ever effort and how would I share that with someone else? Same with work. Was that my best ever retro as a PM? Hard to say for sure.
+I love cooking. But how do I quantify if a meal was my best ever effort and how would I share that with someone else? Same with work. Was that my best ever retro as a PM? Hard to say for sure.
 
 It makes me want to try and quantify something like # of hours of deep work I manage in a typical week. Need to give that more thought.
 
-[^1]: via Daily Dad via this book.
+[^1]: via Daily Dad via [this book][b].
+
+[b]: https://www.amazon.com/Coach-Wooden-Principles-Shaped-Change/dp/0800721276/ref=sr_1_2?tag=dailystoic01-20&keywords=coach+wooden+7+principles&qid=1562544167&s=gateway&sr=8-2
