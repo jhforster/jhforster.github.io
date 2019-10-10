@@ -11,7 +11,7 @@ I grew up in Central New York. In a small town that received a lot of snow every
 
 So when I was 16 and got my learners permit in November... learning how to drive in the snow was emphasized. One of the most important things to learn is how to react if the car fishtails around a corner. This is when you go around a corner, your rear wheels slip, and drift out towards the center of the road.
 
-The answer is counterintuitive. You need to turn the front wheel towards the middle of the road too. Basically, you need to steer into the problem. This is how you stop it and regain control.
+The answer is counterintuitive. You need to turn the front wheels towards the middle of the road too. Basically, you need to steer into the problem. This is how you stop it and regain control.
 
 I find that this metaphor holds up in other areas of life too. 
 
