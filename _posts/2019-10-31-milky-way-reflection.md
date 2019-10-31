@@ -10,7 +10,7 @@ tags:
 --- 
 ![](/assets/jheison-huerta-milkyway-reflection.jpg)
 
-I loved this photo from [Jheison Huerta][jh] that I saw on [kottke](https://kottke.org).
+I love this photo from [Jheison Huerta][jh] that I saw on [kottke](https://kottke.org).
 
 I've gotten okay at doing long exposure shots on my camera. But capturing the stars in a night sky in such a vivid way is still a mystery to me. It'd be a fun skill to learn though.
 
