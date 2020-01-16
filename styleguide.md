@@ -21,7 +21,7 @@ Of course, I'd also have lists! I love lists. Here are some thoughts on my favor
 
 1. The New Yorker – I love it
 2. 99% Invisibile – so consistently interesting it blows my mind
-   1. I need to have an indented one here for testing too. I should make it long to see how it wraps and make sure that's good!
+   * I need to have an indented one here for testing too. I should make it long to see how it wraps and make sure that's good!
 3. [Kottke.org](https://kottke.org) – aka the best blog on the internet
 4. Austin Kleon – he hangs out in a lot of places and I follow him on all of them. Instagram, twitter, his blog, his newletter, you get it...
 
@@ -43,7 +43,8 @@ I, of course, need to try some `code block` stuff out too! I really have no idea
 
 Lastly, I should have some footnotes[^1] and blockquotes!
 
-> If this isn't nice, what is? – Kurt Vonnegut
+> If this isn't nice, what is?  
+> – Kurt Vonnegut
 
 [^1]: I still don't fully understand how these get generated and styled!
 
