@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-paginate: 20
+paginate: 15
 paginate_path: "/:num/"
 
 description: John-Henry Forster runs Product at User Interviews and lives in Salem, MA. At the moment, he is probably coming up with yet another half baked idea or trying to convince himself to go for a run.
