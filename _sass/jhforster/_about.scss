@@ -3,6 +3,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  margin-top: -1.5rem;
 
   @media (max-width: $for-mobile-view) {
     flex-direction: column-reverse;
@@ -10,11 +11,11 @@
   }
 
   h1, h2, h3 {
-    color: $medium-gray;
     margin: 0;
   }
 
   h3 {
+    font-size: 1.2rem;
     font-weight: 400;
   }
 }
@@ -27,7 +28,8 @@
 }
 
 .upside-down {
-  max-width: 20rem;
+  margin-bottom: 1rem;
+  max-width: 14rem;
 
   @media (max-width: $for-mobile-view) {
     max-width: 70%;

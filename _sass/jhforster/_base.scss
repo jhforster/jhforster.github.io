@@ -4,64 +4,18 @@
   padding: 0;
 }
 
-html, body {
-  color: $off-black;
-  background-color: $white;
+html {
+  font-size: 20px;
+}
+
+body {
+  color: #444;
   font-family: $base-font;
-  font-weight: 400;
-  font-size: 16px;
+  line-height: 1.5rem;
 
   @media (max-width: $for-mobile-view) {
-    padding: 0 .75rem;
-  }
-}
-
-h1 {
-  font-family: $header-font;
-  color: $medium-gray;
-  margin: 10px 0 20px 0;
-  font-weight: 700;
-  font-size: 2.5rem;
-}
-
-h2 {
-  font-size: 1.75rem;
-  font-weight: 700;
-}
-
-h2,h3,h4,h5,h6 {
-  font-family: $header-font;
-  color: $medium-gray;
-  margin: 10px 0 20px 0;
-  font-weight: 600;
-}
-
-p {
-  margin: 0 0 1.5rem 0;
-}
-
-a {  
-  box-shadow: inset 0 -3px 0 $highlight;
-  color: $link-color;
-  text-decoration: none;
-
-  &:hover,
-  :focus {
-    background-color: $off-highlight;
-    transition: background-color .95s ease;
-  }
-
-}
-
-h1 {
-  .blog-post-title {
-    box-shadow: none;
-  }
-}
-
-.no-underline {
-  a {
-    box-shadow: none;
+    // padding: 0 .5rem;
+    margin: 0 1rem;
   }
 }
 
@@ -69,37 +23,8 @@ hr {
 	height: 6px;
 	background: url(/assets/hr-slash.svg) repeat-x 0 0;
   border: 0;
-  width: 15rem;
-  margin: 3.5rem auto;
-}
-
-ul {
-  margin: 10px 0 20px 0;
-  padding: 0 40px;
-  list-style-type: disc;
-  // future idea to use the highlight color on bullets instead
-  // list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><circle fill="#2EA4FA" cx="5" cy="5" r="2"/></svg>')
-
-  li {
-    margin: 0 0 10px 0;
-
-    ul {
-      padding: 0 0 0 40px;
-    }
-  }
-
-}
-
-ol {
-  margin: 10px 0 20px 0;
-  padding: 0 40px;
-  // future idea to use the highlight color on bullets instead
-  // list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><circle fill="#2EA4FA" cx="5" cy="5" r="2"/></svg>')
-
-  li {
-    margin: 0 0 10px 0;
-  }
-
+  width: 9rem;
+  margin: 3rem auto;
 }
 
 svg {
@@ -107,36 +32,23 @@ svg {
   width: auto;
 }
 
-em {
-  margin: 0 2px 0 0;
-}
-
-// Prevent super script and sub scripts from changing line heights
-
-sup, sub {
-  vertical-align: baseline;
-  position: relative;
-  top: -0.4em;
-}
-sub {
-  top: 0.4em;
-}
-
-// iframe {
-//   width: 100%;
-//   height: auto;
-// }
-
-// figure {
-//   display: flex;
-//   align-items: stretch;
-//   justify-content: center;
-// }
-
 img {
+  border-radius: .1rem;
   height: auto;
   width: 100%;
+  // this is hella hacky but might work to make the img wider than the base column
+  // max-width: 37rem;
+  // margin-left: -2rem;
+  // margin-right: -2rem;
 }
+
+// Code block styling
+pre, .highlight {
+  border-radius: .1rem;
+  margin-bottom: 1.5rem;
+}
+
+
 
 .pagination {
   font-family: $header-font;
