@@ -4,18 +4,21 @@ title: Blog
 ---
 <ul class="collection-list">
   {% for post in paginator.posts %}
-    <li>
-      {% if post.external_link %}
-      <h1>
-        ⬀ <a href="{{ post.external_link }}" target="_blank">{{ post.title | escape }} </a>
-      </h1>
-      {% elsif post.hide_title %}
-      {% else %}
-      <h1>
-        <a class="blog-post-title" href="{{ post.url }}">{{ post.title | escape }}</a>
-      </h1>
-      {% endif %}
-      {{ post.content }}
+    <li class="collection-list">
+      <div>
+        <h6><a class="no-underline date" href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" | upcase }}</a></h6>
+        {% if post.external_link %}
+        <h1 class="blog-title">
+          ⬀ <a href="{{ post.external_link }}" target="_blank">{{ post.title | escape }} </a>
+        </h1>
+        {% elsif post.hide_title %}
+        {% else %}
+        <h1 class="blog-title">
+          <a class="no-underline" href="{{ post.url }}">{{ post.title | escape }}</a>
+        </h1>
+        {% endif %}
+        {{ post.content }}
+    </div>
     </li>
     <hr>
   {% endfor %}
