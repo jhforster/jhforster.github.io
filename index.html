@@ -14,7 +14,7 @@ title: Blog
         {% elsif post.hide_title %}
         {% else %}
         <h1 class="blog-title">
-          <a class="no-underline" href="{{ post.url }}">{{ post.title | escape }}</a>
+          <a class="no-underline dark" href="{{ post.url }}">{{ post.title | escape }}</a>
         </h1>
         {% endif %}
         {{ post.content }}
