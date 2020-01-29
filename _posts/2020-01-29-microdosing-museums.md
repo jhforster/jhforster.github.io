@@ -32,7 +32,7 @@ And various patterns and materials inspired from nature.
 ![](/assets/nature-1.png)
 ![](/assets/nature-2.png)
 
-There were also some interesting structures you could explore within. Some contained videos or interesting lighting fixtures. Harder to photograph, however.
+There were also some interesting structures you could explore within. Some contained videos or lighting fixtures. Harder to photograph, however.
 
 All in all, it was great. Excited for many more *short* trips to the museum as a family.
 
