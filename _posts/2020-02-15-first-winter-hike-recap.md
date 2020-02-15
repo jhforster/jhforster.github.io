@@ -27,7 +27,7 @@ One of the biggest selling points of the pants, for me, was that they have a boo
 
 ![](/assets/diy-gaiters.png)
 
-I brought a wool buff instead of a synthetic one. It was nice but it stretched out and lost its shape a bit. I might stick with the synthetic next time.
+I brought a wool buff instead of a synthetic one. It was nice but it stretched out and lost its shape a bit. This annoyed me enough that I might stick with the synthetic next time.
 
 I also brought a wool hat but I think I would have preferred the thinner fleece hat I own. I was plenty warm while moving and I think it would have dried out faster after absorbing some sweat.
 
@@ -41,6 +41,8 @@ Some final quick hits on gear:
 * I should brought my [ultralight stuff sack][ul] from Osprey. I could have stuffed clothes or food into it and then had it around the hut to use.
 * Bring a few more hand warmers. They weigh nothing and take up no space. What's the downside?
 * I relied on my iPhone XS for photo and video. I wanted to bring my Fuji x100t but the batteries die so quickly in the cold and I have to worry about protecting it from the elements. Whereas the iPhone is waterproof, battery last a long time in airplane mode, shoots better video, and it was always easy to access from my front pocket.
+
+I stuffed everything inside a contractor trash bag that I put inside my backpack. I've used this trick before to keep things dry when there might be precipitation and it hasn't failed me yet.
 
 ## Food & water
 
