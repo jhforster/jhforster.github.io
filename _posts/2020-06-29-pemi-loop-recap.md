@@ -103,7 +103,7 @@ I'm proud of myself for getting it done. My running mileage has been *way* down 
 
 Maybe I can find a way to do a Presi traverse this fall??
 
-[^1]: Bondclif, Bond, South Twin, Garfield, Lafayette, Lincoln, Liberty, Flume.
+[^1]: Bondcliff, Bond, South Twin, Garfield, Lafayette, Lincoln, Liberty, Flume.
 [^2]: Maintaining as much social distance as we could.
 [^3]: Good advice for life, if you think about it.
 [^4]: This was more bag than I needed but it is lightweight and I've been trying to use it as my one bag for everything lately.
