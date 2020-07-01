@@ -18,7 +18,7 @@ Now? I see things in a different light. Conditions were perfect this year. My pa
 
 All in all, it was a great day this year. I might now be low-key addicted to long trail runs / hikes. I want to plan another one already.
 
-## Lessons learned
+## Musings from the experience
 ### Mentality
 When I'm on a long run or running a race, I tend to play a lot of mind games with myself to push through the difficult parts. I was hiking with 3 friends[^2] and we fell into a good rhythm of making jokes and keeping spirits up. *Just enough bullshitting*. You don't want it to be incessant. Some periods of quiet are nice while you're out enjoying nature. But long stretches of silence get weird too. Depends on the group but we had it working for us.
 
