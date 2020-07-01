@@ -7,7 +7,6 @@ tags:
 - hiking
 - activities
 ---
-## General recap
 It was really satisfying to complete the Pemi loop in a single day. 30 miles, 8 four thousand footer peaks[^1], and about 10k in total elevation gain covered in 12 hours and 30 minutes. We went counter clockwise this year and that seems like the right call now that I've tried it in both directions.
 
 I went clockwise for my first attempt with some friends on May 25th, 2019. Conditions in late May were **rough** – lots of ice monorail, lots of mud. It was slow going as we slipped and post holed our way over the terrain. After summiting Garfield we made the difficult decision to bail and cut the loop short to get back to the trailhead before dark. It was the smart decision — even after cutting it short, we were out on the trail for over 15 hours last year.
