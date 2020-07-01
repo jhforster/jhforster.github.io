@@ -36,9 +36,7 @@ So I stopped for moment. Drank the rest of my water. Choked down some salty hone
 
 I had randomly started doing quick "captain's log" videos whenever we reached a summit. It gave me something to focus on while hiking. What was recap worthy for my next log? They were mostly quick babbling nonsense but, again, having something to occupy your mind helps!
 
-<video controls width="100%">
-  <source src="/assets/pemi-loop-captains-log.mp4" type="video/mp4">
-</video>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/vW8TN0qGP1M?rel=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media; accelerometer; gyroscope; picture-in-picture"></iframe></div>
 
 ### Gear
 My pack loaded up with food and water was a little over 10 lbs. I'm pretty happy with that. I could trim weight a bit on future trips but I doubt I'm getting below 7-8 lbs in any scenario.
