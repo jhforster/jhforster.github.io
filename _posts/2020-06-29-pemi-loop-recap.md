@@ -90,7 +90,7 @@ Some random quick hits:
 * Bring crocs for after. My feet wanted something comfy badly. [Yoga toes][yoga] would have also been clutch.
 * Make sure I have access to my own post-run beers. We put a cooler in another friend's car but then finished before them. Not ideal.
 
-Lastly, I'm definitely going to make the captain's log videos a thing on trips or runs or hike or whatever going forward. I do enjoy writing up recaps (like this one) but I don't always do it. I started recording them as a joke and it ended up being a cool way to relive the experience. I'd like to make that a habit for any noteworthy experiences so I have something around to remember them by when I don't bother writing it up.
+Lastly, I'm definitely going to make the captain's log videos a thing on trips or runs or hike or whatever going forward. I do enjoy writing up recaps (well... duh) but I don't always do it. I started recording them as a joke and it ended up being a cool way to relive the experience. I'd like to make that a habit for any noteworthy experiences so I have something around to remember them by when I don't bother writing it up.
 
 ## Final thoughts
 The people who do FKT (fastest known time) attemps on the Pemi loop are a different animal. The men's time was recently lowered to 5 hours and 42 minutes by Ben Thompson. I cannot even fathom it. I think if I trained properly, cut some weight, and had a good day... I could probably flirt with going under 10 hours. Sub-6 is **so, so** fast over that terrain. I don't even understand how it works or how it is possible.
