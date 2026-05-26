@@ -27,7 +27,7 @@ plugins:
 paginate: 15
 paginate_path: "/:num/"
 
-description: John-Henry Forster runs Product at User Interviews and lives in Salem, MA. At the moment, he is probably coming up with yet another half baked idea or trying to convince himself to go for a run.
+description: John-Henry Forster lives in Beverly, MA. He is advising early-stage teams and tinkering on his own AI projects while weighing what his next full-time role should be. He is also probably trying to convince himself to go for a run.
 
 collections:
   writing:
