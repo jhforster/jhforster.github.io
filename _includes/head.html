@@ -9,9 +9,31 @@
     {{ page.title }} &ndash; {{ site.title }}
   </title>
 
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.layout == "post" %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% capture meta_description %}{% if page.description %}{{ page.description }}{% elsif page.layout == "post" %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+  {% capture share_title %}{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% if page.share_image %}{% assign share_image_path = page.share_image %}{% else %}{% assign share_image_path = "/assets/og-image.png" %}{% endif %}
+  {% assign share_image = share_image_path | absolute_url %}
+  {% assign share_url = page.url | absolute_url %}
 
-  <link rel="canonical" href="{{ page.canonical }}">
+  <meta name="description" content="{{ meta_description }}">
+
+  <link rel="canonical" href="{{ share_url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ share_title }}">
+  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:url" content="{{ share_url }}">
+  <meta property="og:image" content="{{ share_image }}">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@jhforster">
+  <meta name="twitter:creator" content="@jhforster">
+  <meta name="twitter:title" content="{{ share_title }}">
+  <meta name="twitter:description" content="{{ meta_description }}">
+  <meta name="twitter:image" content="{{ share_image }}">
 
   {% include google-analytics.html %}
 

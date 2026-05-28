@@ -26,8 +26,11 @@
 }
 
 .nav-links {
-  font-family: $base-font;
-  font-size: .8rem;
+  font-family: $header-font;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   padding: 0 1rem;
 
   @media (max-width: $for-mobile-view) {
