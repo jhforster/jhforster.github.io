@@ -1,8 +1,14 @@
 .copyright {
-  font-size: .7rem;
+  font-size: .75rem;
   text-align: center;
-
+  color: $medium-gray;
   margin-bottom: 2rem;
+}
+
+.copyright-emoji {
+  display: inline-block;
+  margin: 0 0.15em;
+  vertical-align: -0.1em;
 }
 
 .icon-links {
