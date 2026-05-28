@@ -22,10 +22,6 @@ url: https://jhforster.me # the base hostname & protocol for your site, e.g. htt
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-
-paginate: 15
-paginate_path: "/:num/"
 
 description: John-Henry Forster lives in Beverly, MA. He is advising early-stage teams and tinkering on his own AI projects while weighing what his next full-time role should be. He is also probably trying to convince himself to go for a run.
 
@@ -33,6 +29,9 @@ collections:
   writing:
     output: true
     permalink: /:collection/:year/:title
+  features:
+    output: true
+    permalink: /featured/:path
 
 defaults:
   -
